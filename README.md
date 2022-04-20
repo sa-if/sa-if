@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sa-if&label=Profile%20views&color=0e75b6&style=flat" alt="sa-if" /> </p>
 
-- 🔭 I’m currently working on web development [SA-IF](https://sa-if.github.io)
+- 🔭 I’m currently working on web development: [SA-IF](https://sa-if.github.io)
 
-- 🌱 I’m currently learning **Html,Css,Js**
+- 🌱 I’m currently learning: **Html,Css,Js**
 
-- 👨‍💻 All of my projects are available at [github.com/sa-if](github.com/sa-if)
+- 👨‍💻 All of my projects are available at: [github.com/sa-if](github.com/sa-if)
 
-- 💬 Ask me about **react, Html**
+- 💬 Ask me about: **react, Html**
 
-- 📫 How to reach me **saifislam23122005@gmail.com**
+- 📫 How to reach me: **saifislam23122005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
