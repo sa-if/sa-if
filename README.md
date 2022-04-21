@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **Html,Css,Js**
 
-- 👨‍💻 All of my projects are available at: [Saif](https://github.com/sa-if)
+- 👨‍💻 All of my projects are available at: [Github](https://github.com/sa-if)
 
 - 💬 Ask me about: **react, Html**
 
