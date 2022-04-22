@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at: [Github](https://github.com/sa-if)
 
-- 💬 Ask me about: ** Python and Html**
+- 💬 Ask me about: **Web Development**
 
 - 📫 How to reach me: **saifislam23122005@gmail.com**
 
