@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on web development: [SA-IF](https://sa-if.github.io)
 
-- 🌱 I’m currently learning: **Html,Css,Js**
+- 🌱 I’m currently learning: **Python**
 
 - 👨‍💻 All of my projects are available at: [Github](https://github.com/sa-if)
 
