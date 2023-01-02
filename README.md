@@ -1,26 +1,24 @@
-<h1 align="center">Hi 👋, I'm Saif</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh.❤️</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sa-if&label=Profile%20views&color=0e75b6&style=flat" alt="sa-if" /> </p>
-
-- 🔭 I’m currently working on web development: [SA-IF](https://sa-if.github.io)
-
-- 🌱 I’m currently learning: **Python**
-
-- 👨‍💻 All of my projects are available at: [Github](https://github.com/sa-if)
-
-- 💬 Ask me about: **Web Development**
-
-- 📫 How to reach me: **saifislam23122005@gmail.com**
+# 💫 About Me:
+🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Open-CV project<br>🌱 I’m currently learning Python and Open-CV<br>💬 Ask me about Web Development<br>⚡ Fun fact I am too extrovert
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saif2312) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sa__if2312) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saif-islam-683b05238) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/saif___islam) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">  </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="xd" width="40" height="40"/> </a>  <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="xd" width="40" height="40"/> </a>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sa-if&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sa-if&theme=city_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sa-if&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</p>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=saif___islam)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sa-if&show_icons=true&locale=en&layout=compact" alt="sa-if" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=sa-if&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sa-if&" alt="sa-if" /></p>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/saifislam2H) 
 
+  
