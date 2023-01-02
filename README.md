@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Open-CV project<br>🌱 I’m currently learning Python and Open-CV<br>💬 Ask me about Web Development<br>⚡ Fun fact I am too extrovert
+🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Open-CV project<br>🌱 I’m currently learning Python and Open-CV<br>💬 Ask me about Web Development<br>⚡ Fun fact: I am too extrovert
 
 
 ## 🌐 Socials:
