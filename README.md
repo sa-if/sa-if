@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **Web Developmen**
+- 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Python and Open-CV**
 
