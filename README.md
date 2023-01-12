@@ -2,8 +2,16 @@
 <h3 align="center">A passionate full stack developer and Linux expert from Bangladesh❤️</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Open-CV project<br>🌱 I’m currently learning Python and Open-CV<br>💬 Ask me about Web Development<br>⚡ Fun fact: I am too extrovert
 
+- 🔭 I’m currently working on **Web Developmen**
+
+- 🌱 I’m currently learning **Python and Open-CV**
+
+- 👯 I’m looking to collaborate on **Open-CV project**
+
+-💬 Ask me about **Web Development**
+
+-⚡ Fun fact: I am too extrovert
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saif2312) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sa__if2312) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saif-islam-683b05238) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/saif___islam) 
